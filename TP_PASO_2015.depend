@@ -1,0 +1,337 @@
+# depslib dependency file v1.0
+1433362244 source:c:\users\fede\desktop\proyectos code_blocks\tp_paso_2015\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+	<cctype>
+	"Candidato.h"
+	"Lista.h"
+	"Funciones.h"
+	"PartidoPolitico.h"
+	"Mesa.h"
+	"Provincia.h"
+
+1433359009 source:c:\users\fede\desktop\proyectos code_blocks\tp_paso_2015\partidopolitico.cpp
+	"PartidoPolitico.h"
+	"Funciones.h"
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<string.h>
+
+1433358115 c:\users\fede\desktop\proyectos code_blocks\tp_paso_2015\partidopolitico.h
+	"Lista.h"
+	"Candidato.h"
+
+1433359011 source:c:\users\fede\desktop\proyectos code_blocks\tp_paso_2015\candidato.cpp
+	"Candidato.h"
+	"Funciones.h"
+	"PartidoPolitico.h"
+	<cstdlib>
+	<iostream>
+	<string.h>
+	<stdio.h>
+
+1433356789 c:\users\fede\desktop\proyectos code_blocks\tp_paso_2015\candidato.h
+	"Lista.h"
+
+1433363479 c:\users\fede\desktop\proyectos code_blocks\tp_paso_2015\voto.h
+	"Mesa.h"
+
+1433363593 source:c:\users\fede\desktop\proyectos code_blocks\tp_paso_2015\voto.cpp
+	"Voto.h"
+
+1433362927 source:c:\users\fede\desktop\proyectos code_blocks\tp_paso_2015\mesa.cpp
+	"Mesa.h"
+	"Funciones.h"
+	<cstdlib>
+	<iostream>
+	<string.h>
+	<stdio.h>
+
+1433362833 c:\users\fede\desktop\proyectos code_blocks\tp_paso_2015\mesa.h
+	"Cola.h"
+	"Lista.h"
+
+1433188646 c:\users\fede\desktop\proyectos code_blocks\tp_paso_2015\urna.h
+	<string>
+	"Lista.h"
+
+1433248289 source:c:\users\fede\desktop\proyectos code_blocks\tp_paso_2015\urna.cpp
+	"Urna.h"
+
+1433330144 c:\users\fede\desktop\proyectos code_blocks\tp_paso_2015\lista.h
+
+1433330172 source:c:\users\fede\desktop\proyectos code_blocks\tp_paso_2015\lista.cpp
+	"Lista.h"
+
+1432840145 source:c:\users\fede\desktop\proyectos code_blocks\tp_paso_2015\admincandidato.cpp
+	"AdminCandidato.h"
+	"Funciones.h"
+	<fstream>
+	<iostream>
+	<cstdlib>
+
+1432490833 c:\users\fede\desktop\proyectos code_blocks\tp_paso_2015\admincandidato.h
+	"Candidato.h"
+	"Lista.h"
+
+1433351847 source:c:\users\fede\desktop\proyectos code_blocks\tp_paso_2015\funciones.cpp
+	"Funciones.h"
+	"Lista.h"
+	<string.h>
+	<cstdio>
+	<iostream>
+	<limits.h>
+	<cstdlib>
+	<time.h>
+	<stdio.h>
+
+1433351749 c:\users\fede\desktop\proyectos code_blocks\tp_paso_2015\funciones.h
+
+1432497441 c:\users\fede\desktop\proyectos code_blocks\tp_paso_2015\menucandidato.h
+	"Candidato.h"
+	"AdminCandidato.h"
+	"Lista.h"
+	"Funciones.h"
+	"MenuCandidato.h"
+
+1433187415 source:c:\users\fede\desktop\proyectos code_blocks\tp_paso_2015\adminpartido.cpp
+	"AdminPartido.h"
+	"Funciones.h"
+	<fstream>
+	<iostream>
+	<cstdlib>
+
+1433187429 c:\users\fede\desktop\proyectos code_blocks\tp_paso_2015\adminpartido.h
+	"PartidoPolitico.h"
+	"Lista.h"
+
+1433253926 source:c:\users\fede\desktop\proyectos code_blocks\tp_paso_2015\adminmesa.cpp
+	"AdminMesa.h"
+	"Funciones.h"
+	"Provincia.h"
+	<fstream>
+	<iostream>
+	<cstdlib>
+
+1433253507 c:\users\fede\desktop\proyectos code_blocks\tp_paso_2015\adminmesa.h
+	"Mesa.h"
+	"Lista.h"
+
+1432638962 source:c:\users\fede\desktop\proyectos code_blocks\tp_paso_2015\cola.cpp
+	"Cola.h"
+
+1432638934 c:\users\fede\desktop\proyectos code_blocks\tp_paso_2015\cola.h
+
+1433363233 source:c:\users\fede\desktop\proyectos code_blocks\tp_paso_2015\provincia.cpp
+	"Provincia.h"
+
+1433363238 c:\users\fede\desktop\proyectos code_blocks\tp_paso_2015\provincia.h
+	"Lista.h"
+	"Mesa.h"
+	<fstream>
+	<iostream>
+	<cstdlib>
+
+1433713391 source:c:\users\gisela\desktop\tp_paso_2015\candidato.cpp
+	"Candidato.h"
+	"Funciones.h"
+	"PartidoPolitico.h"
+	<cstdlib>
+	<iostream>
+	<string.h>
+	<stdio.h>
+
+1433507121 c:\users\gisela\desktop\tp_paso_2015\candidato.h
+	"Lista.h"
+
+1433330144 c:\users\gisela\desktop\tp_paso_2015\lista.h
+
+1433790294 c:\users\gisela\desktop\tp_paso_2015\funciones.h
+	"Lista.h"
+	"PartidoPolitico.h"
+	"Mesa.h"
+
+1433358115 c:\users\gisela\desktop\tp_paso_2015\partidopolitico.h
+	"Lista.h"
+	"Candidato.h"
+
+1432638962 source:c:\users\gisela\desktop\tp_paso_2015\cola.cpp
+	"Cola.h"
+
+1432638934 c:\users\gisela\desktop\tp_paso_2015\cola.h
+
+1433792664 source:c:\users\gisela\desktop\tp_paso_2015\funciones.cpp
+	"Funciones.h"
+	"Lista.h"
+	<string.h>
+	<cstdio>
+	<iostream>
+	<limits.h>
+	<cstdlib>
+	<time.h>
+	<stdio.h>
+
+1433791255 source:c:\users\gisela\desktop\tp_paso_2015\lista.cpp
+	"Lista.h"
+
+1433792862 source:c:\users\gisela\desktop\tp_paso_2015\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+	<cctype>
+	"Candidato.h"
+	"Lista.h"
+	"Funciones.h"
+	"PartidoPolitico.h"
+	"Mesa.h"
+	"Provincia.h"
+
+1433790010 c:\users\gisela\desktop\tp_paso_2015\mesa.h
+	"Cola.h"
+	"Lista.h"
+	"Provincia.h"
+
+1433713790 c:\users\gisela\desktop\tp_paso_2015\provincia.h
+	"Lista.h"
+	"Mesa.h"
+	<fstream>
+	<string.h>
+	<iostream>
+	<cstdlib>
+
+1433793103 source:c:\users\gisela\desktop\tp_paso_2015\mesa.cpp
+	"Mesa.h"
+	"Funciones.h"
+	<cstdlib>
+	<iostream>
+	<string.h>
+	<stdio.h>
+
+1433712887 source:c:\users\gisela\desktop\tp_paso_2015\partidopolitico.cpp
+	"PartidoPolitico.h"
+	"Funciones.h"
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<string.h>
+
+1433248289 source:c:\users\gisela\desktop\tp_paso_2015\urna.cpp
+	"Urna.h"
+
+1433188646 c:\users\gisela\desktop\tp_paso_2015\urna.h
+	<string>
+	"Lista.h"
+
+1433363593 source:c:\users\gisela\desktop\tp_paso_2015\voto.cpp
+	"Voto.h"
+
+1433363479 c:\users\gisela\desktop\tp_paso_2015\voto.h
+	"Mesa.h"
+
+1433713768 source:c:\users\gisela\desktop\tp_paso_2015\provincia.cpp
+	"Provincia.h"
+
+1433713391 source:c:\users\fede\desktop\tp_paso_2015\candidato.cpp
+	"Candidato.h"
+	"Funciones.h"
+	"PartidoPolitico.h"
+	<cstdlib>
+	<iostream>
+	<string.h>
+	<stdio.h>
+
+1433507121 c:\users\fede\desktop\tp_paso_2015\candidato.h
+	"Lista.h"
+
+1433330144 c:\users\fede\desktop\tp_paso_2015\lista.h
+
+1433872544 c:\users\fede\desktop\tp_paso_2015\funciones.h
+	"Lista.h"
+	"PartidoPolitico.h"
+	"Mesa.h"
+
+1433358115 c:\users\fede\desktop\tp_paso_2015\partidopolitico.h
+	"Lista.h"
+	"Candidato.h"
+
+1432638962 source:c:\users\fede\desktop\tp_paso_2015\cola.cpp
+	"Cola.h"
+
+1432638934 c:\users\fede\desktop\tp_paso_2015\cola.h
+
+1433872527 source:c:\users\fede\desktop\tp_paso_2015\funciones.cpp
+	"Funciones.h"
+	"Lista.h"
+	<string.h>
+	<cstdio>
+	<iostream>
+	<limits.h>
+	<cstdlib>
+	<time.h>
+	<stdio.h>
+
+1433791255 source:c:\users\fede\desktop\tp_paso_2015\lista.cpp
+	"Lista.h"
+
+1433871336 source:c:\users\fede\desktop\tp_paso_2015\mesa.cpp
+	"Mesa.h"
+	"Funciones.h"
+	<cstdlib>
+	<iostream>
+	<string.h>
+	<stdio.h>
+
+1433871377 c:\users\fede\desktop\tp_paso_2015\mesa.h
+	"Cola.h"
+	"Lista.h"
+	"Provincia.h"
+
+1433713790 c:\users\fede\desktop\tp_paso_2015\provincia.h
+	"Lista.h"
+	"Mesa.h"
+	<fstream>
+	<string.h>
+	<iostream>
+	<cstdlib>
+
+1433712887 source:c:\users\fede\desktop\tp_paso_2015\partidopolitico.cpp
+	"PartidoPolitico.h"
+	"Funciones.h"
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<string.h>
+
+1433713768 source:c:\users\fede\desktop\tp_paso_2015\provincia.cpp
+	"Provincia.h"
+
+1433248289 source:c:\users\fede\desktop\tp_paso_2015\urna.cpp
+	"Urna.h"
+
+1433188646 c:\users\fede\desktop\tp_paso_2015\urna.h
+	<string>
+	"Lista.h"
+
+1433363593 source:c:\users\fede\desktop\tp_paso_2015\voto.cpp
+	"Voto.h"
+
+1433363479 c:\users\fede\desktop\tp_paso_2015\voto.h
+	"Mesa.h"
+
+1433871359 source:c:\users\fede\desktop\tp_paso_2015\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+	<cctype>
+	"Candidato.h"
+	"Lista.h"
+	"Funciones.h"
+	"PartidoPolitico.h"
+	"Mesa.h"
+	"Provincia.h"
+

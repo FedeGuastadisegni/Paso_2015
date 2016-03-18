@@ -1,0 +1,5 @@
+4;Zap
+1;Frente
+2;FPV
+90;Frente Amplio Progresista
+3;Alto
